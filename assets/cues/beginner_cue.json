@@ -1,0 +1,21 @@
+{
+  "name": "Beginner Cue",
+  "description": "Beginner Cue",
+  "image_url": "https://4.bp.blogspot.com/-flGGsIeIw0A/UvxqzNyMTNI/AAAAAAAACRY/e7FRo-RFbzM/s1600/Bida+L%25E1%25BB%2597%252C+lu%25E1%25BA%25ADt+ch%25C6%25A1i+bida+l%25E1%25BB%2597+Pool+9+bi+1.jpg",
+  "force": {
+    "title": "Force",
+    "value": 0
+  },
+  "aim": {
+    "title": "Aim",
+    "value": 0
+  },
+  "spin": {
+    "title": "Spin",
+    "value": 0
+  },
+  "time": {
+    "title": "Time",
+    "value": 0
+  }
+}
